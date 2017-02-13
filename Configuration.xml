@@ -132,16 +132,22 @@
 			<DefinedType>Кратность</DefinedType>
 			<Catalog>Валюты</Catalog>
 			<Catalog>ЕдиницыИзмерения</Catalog>
+			<Catalog>ЗначенияСвойствОбъектов</Catalog>
 			<Catalog>КлассификаторЕдиницИзмерения</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Организации</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>ТипыЦенНоменклатуры</Catalog>
+			<Catalog>ХарактеристикиНоменклатуры</Catalog>
+			<Document>ПеремещениеТоваров</Document>
 			<Document>ПоступлениеТоваровУслуг</Document>
 			<Document>РеализацияТоваровУслуг</Document>
-			<Document>ПеремещениеТоваров</Document>
+			<InformationRegister>ДополнительныеСведения</InformationRegister>
 			<InformationRegister>КурсыВалют</InformationRegister>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
+			<ChartOfCharacteristicTypes>ДополнительныеРеквизитыИСведения</ChartOfCharacteristicTypes>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

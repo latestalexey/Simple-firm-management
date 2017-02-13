@@ -1,66 +1,78 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
-	<AccumulationRegister uuid="42b849bd-3dcc-4d5b-a10b-9cf09c3e7932">
+	<InformationRegister uuid="b77472ff-4e0b-48ff-9588-622b1445aec0">
 		<InternalInfo>
-			<xr:GeneratedType name="AccumulationRegisterRecord.ТоварыНаСкладах" category="Record">
-				<xr:TypeId>3629a835-e1a2-47f9-a470-cfdffbcb5df9</xr:TypeId>
-				<xr:ValueId>e9acd951-1f0e-4084-8687-2119e53a1745</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecord.ЦеныНоменклатуры" category="Record">
+				<xr:TypeId>8471fb89-373a-480d-b88f-15220fc91e8d</xr:TypeId>
+				<xr:ValueId>38af78ca-1d50-4e41-9e10-ef1f8e7d054c</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterManager.ТоварыНаСкладах" category="Manager">
-				<xr:TypeId>4e1f5178-c0ed-4c7b-8bab-7b0987134c48</xr:TypeId>
-				<xr:ValueId>3bf7b6c5-7278-42be-81e4-51392d6c7bb3</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterManager.ЦеныНоменклатуры" category="Manager">
+				<xr:TypeId>a6176a6d-c215-406f-84a2-08bcdd6c7bbc</xr:TypeId>
+				<xr:ValueId>ca81af73-41d5-4af7-beec-7b3e95027389</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterSelection.ТоварыНаСкладах" category="Selection">
-				<xr:TypeId>ed57680d-fb8f-4943-8b50-48a78ae3f0c7</xr:TypeId>
-				<xr:ValueId>8639835d-7413-47da-a9a7-fc06d50c0035</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterSelection.ЦеныНоменклатуры" category="Selection">
+				<xr:TypeId>99192f96-4d38-49ec-83c8-e8e3b7da4844</xr:TypeId>
+				<xr:ValueId>ce70a9d7-0df7-4fb9-b137-9cf166f2343d</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterList.ТоварыНаСкладах" category="List">
-				<xr:TypeId>6f66f172-78c0-440f-85a9-807d0b62c2b7</xr:TypeId>
-				<xr:ValueId>a7e68da1-d212-42ec-8bb9-0d0b48e48b5c</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterList.ЦеныНоменклатуры" category="List">
+				<xr:TypeId>0339fd37-c2cb-42a0-8b5e-1e272377462f</xr:TypeId>
+				<xr:ValueId>eaae2542-6fea-4ef4-8867-074faaac98bd</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterRecordSet.ТоварыНаСкладах" category="RecordSet">
-				<xr:TypeId>4c444275-383d-46ac-b265-98443edbd9a2</xr:TypeId>
-				<xr:ValueId>a42b5898-1a76-4fde-a047-1d55859f9c12</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordSet.ЦеныНоменклатуры" category="RecordSet">
+				<xr:TypeId>edf02415-06b9-46a7-a3e8-c6b1dd2009d7</xr:TypeId>
+				<xr:ValueId>58a8358d-ca25-4304-96a1-bba1c205afef</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="AccumulationRegisterRecordKey.ТоварыНаСкладах" category="RecordKey">
-				<xr:TypeId>ea7cd3a8-a32c-4fec-a6fe-347fab1cbb54</xr:TypeId>
-				<xr:ValueId>4aac13cf-0c1e-4df0-8030-a580ecee764a</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordKey.ЦеныНоменклатуры" category="RecordKey">
+				<xr:TypeId>45c29607-4706-4fef-8f20-195ee97212a2</xr:TypeId>
+				<xr:ValueId>496e8bdc-8333-48a7-9785-93e70487593e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.ЦеныНоменклатуры" category="RecordManager">
+				<xr:TypeId>94552826-0f6c-49b0-8ee0-29457c63f4bb</xr:TypeId>
+				<xr:ValueId>990fb598-440a-4cb2-ac4b-61dc890f68ea</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ТоварыНаСкладах</Name>
+			<Name>ЦеныНоменклатуры</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Товары на складах</v8:content>
+					<v8:content>Цены номенклатуры</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
 			<UseStandardCommands>true</UseStandardCommands>
+			<EditType>InDialog</EditType>
+			<DefaultRecordForm/>
 			<DefaultListForm/>
+			<AuxiliaryRecordForm/>
 			<AuxiliaryListForm/>
-			<RegisterType>Balance</RegisterType>
+			<InformationRegisterPeriodicity>Day</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+			<MainFilterOnPeriod>true</MainFilterOnPeriod>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<FullTextSearch>DontUse</FullTextSearch>
-			<EnableTotalsSplitting>true</EnableTotalsSplitting>
+			<EnableTotalsSliceFirst>false</EnableTotalsSliceFirst>
+			<EnableTotalsSliceLast>false</EnableTotalsSliceLast>
+			<RecordPresentation/>
+			<ExtendedRecordPresentation/>
 			<ListPresentation/>
 			<ExtendedListPresentation/>
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="4af71c02-ed77-4eb4-b858-f2c966f8df07">
+			<Resource uuid="f3f0facf-7d8e-4846-add3-eae77dadfd83">
 				<Properties>
-					<Name>Количество</Name>
+					<Name>Цена</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Количество</v8:content>
+							<v8:content>Цена</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:TypeSet>cfg:DefinedType.Количество</v8:TypeSet>
+						<v8:TypeSet>cfg:DefinedType.Цена</v8:TypeSet>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -72,6 +84,8 @@
 					<ExtendedEdit>false</ExtendedEdit>
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
@@ -81,21 +95,22 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
 				</Properties>
 			</Resource>
-			<Dimension uuid="0fd5b090-2c56-4745-9d91-4b193f7150e4">
+			<Resource uuid="9878ab18-ea89-47a5-aeb5-835bc5a347a9">
 				<Properties>
-					<Name>Организация</Name>
+					<Name>Валюта</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Организация</v8:content>
+							<v8:content>Валюта</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.Организации</v8:Type>
+						<v8:Type>cfg:CatalogRef.Валюты</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -107,6 +122,8 @@
 					<ExtendedEdit>false</ExtendedEdit>
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
@@ -116,24 +133,22 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<DenyIncompleteValues>false</DenyIncompleteValues>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
-					<UseInTotals>true</UseInTotals>
 				</Properties>
-			</Dimension>
-			<Dimension uuid="11536fd3-549f-4ae4-8e09-9d12468968dc">
+			</Resource>
+			<Resource uuid="ecd2b02a-a497-4d84-93ee-e027f819b696">
 				<Properties>
-					<Name>Склад</Name>
+					<Name>ЕдиницаИзмерения</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Склад</v8:content>
+							<v8:content>Единица измерения</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.Склады</v8:Type>
+						<v8:Type>cfg:CatalogRef.ЕдиницыИзмерения</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -145,6 +160,52 @@
 					<ExtendedEdit>false</ExtendedEdit>
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks>
+						<xr:Link>
+							<xr:Name>Отбор.Владелец</xr:Name>
+							<xr:DataPath xsi:type="xs:string">InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура</xr:DataPath>
+							<xr:ValueChange>Clear</xr:ValueChange>
+						</xr:Link>
+					</ChoiceParameterLinks>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+				</Properties>
+			</Resource>
+			<Dimension uuid="c7d53657-f445-428b-8f8a-6a69892065dc">
+				<Properties>
+					<Name>ТипЦены</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Тип цены</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:CatalogRef.ТипыЦенНоменклатуры</v8:Type>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>true</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
@@ -154,13 +215,14 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<DenyIncompleteValues>false</DenyIncompleteValues>
+					<Master>true</Master>
+					<MainFilter>true</MainFilter>
+					<DenyIncompleteValues>true</DenyIncompleteValues>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
-					<UseInTotals>true</UseInTotals>
 				</Properties>
 			</Dimension>
-			<Dimension uuid="a6419a96-540b-4278-9834-2a44e045eebe">
+			<Dimension uuid="192933e0-c85c-4e48-ba21-df10f4288aaa">
 				<Properties>
 					<Name>Номенклатура</Name>
 					<Synonym>
@@ -183,6 +245,8 @@
 					<ExtendedEdit>false</ExtendedEdit>
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>true</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
@@ -192,13 +256,14 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<DenyIncompleteValues>false</DenyIncompleteValues>
+					<Master>true</Master>
+					<MainFilter>true</MainFilter>
+					<DenyIncompleteValues>true</DenyIncompleteValues>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
-					<UseInTotals>true</UseInTotals>
 				</Properties>
 			</Dimension>
-			<Dimension uuid="2e9e3b5b-3037-4d16-9873-00303507a066">
+			<Dimension uuid="41f215de-3b05-4999-8198-836bf827129d">
 				<Properties>
 					<Name>ХарактеристикаНоменклатуры</Name>
 					<Synonym>
@@ -221,21 +286,30 @@
 					<ExtendedEdit>false</ExtendedEdit>
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks/>
+					<ChoiceParameterLinks>
+						<xr:Link>
+							<xr:Name>Отбор.Владелец</xr:Name>
+							<xr:DataPath xsi:type="xs:string">InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура</xr:DataPath>
+							<xr:ValueChange>Clear</xr:ValueChange>
+						</xr:Link>
+					</ChoiceParameterLinks>
 					<ChoiceParameters/>
 					<QuickChoice>Auto</QuickChoice>
 					<CreateOnInput>Auto</CreateOnInput>
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Master>false</Master>
+					<MainFilter>true</MainFilter>
 					<DenyIncompleteValues>false</DenyIncompleteValues>
 					<Indexing>DontIndex</Indexing>
 					<FullTextSearch>Use</FullTextSearch>
-					<UseInTotals>true</UseInTotals>
 				</Properties>
 			</Dimension>
 		</ChildObjects>
-	</AccumulationRegister>
+	</InformationRegister>
 </MetaDataObject>

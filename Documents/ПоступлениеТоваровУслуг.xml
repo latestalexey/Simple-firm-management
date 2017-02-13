@@ -213,6 +213,51 @@
 							<FullTextSearch>Use</FullTextSearch>
 						</Properties>
 					</Attribute>
+					<Attribute uuid="5c54439c-ca18-44ae-a848-6c6be68a759d">
+						<Properties>
+							<Name>ХарактеристикаНоменклатуры</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Характеристика номенклатуры</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<Type>
+								<v8:Type>cfg:CatalogRef.ХарактеристикиНоменклатуры</v8:Type>
+							</Type>
+							<PasswordMode>false</PasswordMode>
+							<Format/>
+							<EditFormat/>
+							<ToolTip/>
+							<MarkNegatives>false</MarkNegatives>
+							<Mask/>
+							<MultiLine>false</MultiLine>
+							<ExtendedEdit>false</ExtendedEdit>
+							<MinValue xsi:nil="true"/>
+							<MaxValue xsi:nil="true"/>
+							<FillChecking>DontCheck</FillChecking>
+							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+							<ChoiceParameterLinks>
+								<xr:Link>
+									<xr:Name>Отбор.Владелец</xr:Name>
+									<xr:DataPath xsi:type="xs:string">Document.ПоступлениеТоваровУслуг.TabularSection.СписокНоменклатуры.Attribute.Номенклатура</xr:DataPath>
+									<xr:ValueChange>Clear</xr:ValueChange>
+								</xr:Link>
+							</ChoiceParameterLinks>
+							<ChoiceParameters/>
+							<QuickChoice>Auto</QuickChoice>
+							<CreateOnInput>Auto</CreateOnInput>
+							<ChoiceForm/>
+							<LinkByType>
+								<xr:DataPath>Document.ПоступлениеТоваровУслуг.TabularSection.СписокНоменклатуры.Attribute.Номенклатура</xr:DataPath>
+								<xr:LinkItem>0</xr:LinkItem>
+							</LinkByType>
+							<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+							<Indexing>DontIndex</Indexing>
+							<FullTextSearch>Use</FullTextSearch>
+						</Properties>
+					</Attribute>
 					<Attribute uuid="b1d711a8-aed7-4294-aee9-a0381c6617e6">
 						<Properties>
 							<Name>Количество</Name>
