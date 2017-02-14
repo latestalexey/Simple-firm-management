@@ -44,7 +44,7 @@
 		<Metadata name="Catalog.ХарактеристикиНоменклатуры" id="9647bf51-9d74-4f92-a223-683e694bf1dc" configVersion="840bf577c189164d976232e3ab60855c00000000"/>
 		<Metadata name="ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения" id="00e09379-9376-46f8-bf60-766664f7344d" configVersion="061ca5a534de6645821089b7250d865700000000"/>
 		<Metadata name="CommonAttribute.Организация" id="59021cc3-e0ba-4558-a8d5-a828482d0511" configVersion="9fb22c1015665d459b3701756346252300000000"/>
-		<Metadata name="Configuration.УправлениеПростымПредприятием" id="ffaa2ac4-fe98-48c1-abee-80c67966b940" configVersion="12ba6f8477ee464f96ced5697d798ce700000000"/>
+		<Metadata name="Configuration.УправлениеПростымПредприятием" id="ffaa2ac4-fe98-48c1-abee-80c67966b940" configVersion="f1bda8f17a468b4fba8710d5d3d1401400000000"/>
 		<Metadata name="DefinedType.Количество" id="8b6e599f-e148-4640-987b-2d06d2552f3a" configVersion="48be298c2cac044f9d25657efa946e2300000000"/>
 		<Metadata name="DefinedType.Кратность" id="ce4fab1a-a5b4-4f99-b2c4-fe49a9e11e50" configVersion="86d5c211c1b34941b4ae3a874f5091a400000000"/>
 		<Metadata name="DefinedType.Курс" id="23d30be7-4967-4369-8996-2e86d0251ea7" configVersion="5b6a9078b083bc4d995adb153318f0ca00000000"/>

@@ -45,7 +45,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
 			<Vendor>МКП "Компьютер-сервис"</Vendor>
-			<Version>1.0.0.20</Version>
+			<Version>1.0.0.25</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
