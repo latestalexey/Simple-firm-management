@@ -1,57 +1,57 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
 	<ConfigVersions>
-		<Metadata name="AccumulationRegister.ТоварыНаСкладах" id="42b849bd-3dcc-4d5b-a10b-9cf09c3e7932" configVersion="f1d6c2332a34484c8cb9b745aabb890a00000000">
+		<Metadata name="AccumulationRegister.ТоварыНаСкладах" id="42b849bd-3dcc-4d5b-a10b-9cf09c3e7932" configVersion="c240d56f2f60c2428b19792034ba905400000000">
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Организация" id="0fd5b090-2c56-4745-9d91-4b193f7150e4"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Склад" id="11536fd3-549f-4ae4-8e09-9d12468968dc"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.ХарактеристикаНоменклатуры" id="2e9e3b5b-3037-4d16-9873-00303507a066"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Resource.Количество" id="4af71c02-ed77-4eb4-b858-f2c966f8df07"/>
 			<Metadata name="AccumulationRegister.ТоварыНаСкладах.Dimension.Номенклатура" id="a6419a96-540b-4278-9834-2a44e045eebe"/>
 		</Metadata>
-		<Metadata name="Catalog.Валюты" id="e52fdb41-a52a-41e0-88eb-e8710d08b94a" configVersion="e04af01c2777e54f9689a88ce000bc7100000000">
+		<Metadata name="Catalog.Валюты" id="e52fdb41-a52a-41e0-88eb-e8710d08b94a" configVersion="f5df368ca6bb1b44a38530115cf5fe0200000000">
 			<Metadata name="Catalog.Валюты.Attribute.НаименованиеПолное" id="68c67939-44b3-4547-967d-f7971dc52311"/>
 		</Metadata>
-		<Metadata name="Catalog.Валюты.Form.ФормаСписка" id="b247c300-0a3a-4b1a-9c65-d8762bf79ad0" configVersion="ddb72c930c3ad8439c80d33c34d3b32b00000000"/>
-		<Metadata name="Catalog.Валюты.Form.ФормаСписка.Form" id="b247c300-0a3a-4b1a-9c65-d8762bf79ad0.0" configVersion="e55a064c4fc85a499e76b95f6fa6b7ae00000000"/>
-		<Metadata name="Catalog.Валюты.Form.ФормаЭлемента" id="d2cfcc18-157e-4cec-a337-762e174d9b66" configVersion="ebd774c415e8e64490e69d31b05fcd2a00000000"/>
-		<Metadata name="Catalog.Валюты.Form.ФормаЭлемента.Form" id="d2cfcc18-157e-4cec-a337-762e174d9b66.0" configVersion="220f956b226e804db3b3856b13c0376000000000"/>
-		<Metadata name="Catalog.Валюты.Template.КлассификаторВалют" id="c8c05e68-b556-47de-9c7e-42d5c3e16242" configVersion="97304eb91ec6db4c8f1e8ec0d37022e700000000"/>
-		<Metadata name="Catalog.Валюты.Template.КлассификаторВалют.Template" id="c8c05e68-b556-47de-9c7e-42d5c3e16242.0" configVersion="2a369adf020b3f4ca21a51cce3d0d0ce00000000"/>
-		<Metadata name="Catalog.ЕдиницыИзмерения" id="c2be0f75-a313-4155-999a-73820740323a" configVersion="7be8796ea3360d419661ff9e66a78de200000000">
+		<Metadata name="Catalog.Валюты.Form.ФормаСписка" id="b247c300-0a3a-4b1a-9c65-d8762bf79ad0" configVersion="f15948e53aed4143ba023c83a346d33100000000"/>
+		<Metadata name="Catalog.Валюты.Form.ФормаСписка.Form" id="b247c300-0a3a-4b1a-9c65-d8762bf79ad0.0" configVersion="da17ae2096271a46a79d54f98f35e8cd00000000"/>
+		<Metadata name="Catalog.Валюты.Form.ФормаЭлемента" id="d2cfcc18-157e-4cec-a337-762e174d9b66" configVersion="d64b5062455421438905e8a49098e39300000000"/>
+		<Metadata name="Catalog.Валюты.Form.ФормаЭлемента.Form" id="d2cfcc18-157e-4cec-a337-762e174d9b66.0" configVersion="51195f8c67d64b419efb7f7c1b67979800000000"/>
+		<Metadata name="Catalog.Валюты.Template.КлассификаторВалют" id="c8c05e68-b556-47de-9c7e-42d5c3e16242" configVersion="2fe37dcec2f1404e91549aa66974d83300000000"/>
+		<Metadata name="Catalog.Валюты.Template.КлассификаторВалют.Template" id="c8c05e68-b556-47de-9c7e-42d5c3e16242.0" configVersion="e1326bdf5f3bd146a32ef30c996b47ec00000000"/>
+		<Metadata name="Catalog.ЕдиницыИзмерения" id="c2be0f75-a313-4155-999a-73820740323a" configVersion="d17979bbf58bb5448cdc1647997e8e1e00000000">
 			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.ЕдиницаПоКлассификатору" id="05a26407-a0d8-461c-814f-047fd5f6a672"/>
 			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.Коэффициент" id="24987d19-7c2f-4ca0-853b-74694d554952"/>
 		</Metadata>
-		<Metadata name="Catalog.ЗначенияСвойствОбъектов" id="2d754e22-00f8-4ee0-a2a7-1f4b382178a2" configVersion="0649d5d7fc15ba4297214c372db488a400000000"/>
-		<Metadata name="Catalog.КлассификаторЕдиницИзмерения" id="f3bdda49-7a0c-41da-b26a-4ac579ed2463" configVersion="3b7dc2884c834f4cb51c3d7063eabb6300000000">
+		<Metadata name="Catalog.ЗначенияСвойствОбъектов" id="2d754e22-00f8-4ee0-a2a7-1f4b382178a2" configVersion="951950590057d7469cd97deeb4cd213400000000"/>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения" id="f3bdda49-7a0c-41da-b26a-4ac579ed2463" configVersion="624fc94fae1cac41b8d31b499a43897300000000">
 			<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Attribute.НаименованиеПолное" id="b2531ab2-514d-40ce-bd00-98edd9ed7926"/>
 		</Metadata>
-		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Form.ФормаВыбораИзКлассификатора" id="8cd08249-df5a-4060-b762-3c49f839f723" configVersion="789336087139f142a40f8ec7cee620c100000000"/>
-		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Form.ФормаВыбораИзКлассификатора.Form" id="8cd08249-df5a-4060-b762-3c49f839f723.0" configVersion="24e401214f13624f8429d6005c01577300000000"/>
-		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Form.ФормаСписка" id="df2f1a52-2a3a-4786-9876-539af526e0b3" configVersion="f16c9bfcbe89ae43864ef38eafcd0c9500000000"/>
-		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Form.ФормаСписка.Form" id="df2f1a52-2a3a-4786-9876-539af526e0b3.0" configVersion="a5608e7eaacb364fb08339d2a59743cd00000000"/>
-		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Form.ФормаЭлемента" id="885fa3e1-59bf-4613-96ad-22aaf04eee8a" configVersion="3711d68e3a488148be917242e9fdecd700000000"/>
-		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Form.ФормаЭлемента.Form" id="885fa3e1-59bf-4613-96ad-22aaf04eee8a.0" configVersion="60ac69c4d21c0f4b9ce71dcc1e83f1cc00000000"/>
-		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Template.КлассификаторЕдиницИзмерения" id="619260aa-7627-4d91-b4f9-d374f330dee6" configVersion="0ea6cf418a78a5439bb4316dce3c948100000000"/>
-		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Template.КлассификаторЕдиницИзмерения.Template" id="619260aa-7627-4d91-b4f9-d374f330dee6.0" configVersion="224f500c53337b4899c5940d55e38ff000000000"/>
-		<Metadata name="Catalog.Контрагенты" id="84d6b54b-3795-449e-a58b-f77ca46c7c61" configVersion="3955beac56c863428e7c556b4d357b3600000000"/>
-		<Metadata name="Catalog.Номенклатура" id="233a81eb-044e-4294-a947-cff0892450fc" configVersion="65c2048bba739d4b8278462b555ab4b300000000">
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Form.ФормаВыбораИзКлассификатора" id="8cd08249-df5a-4060-b762-3c49f839f723" configVersion="b6c90ef3061f5348b79f70d4552d91fc00000000"/>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Form.ФормаВыбораИзКлассификатора.Form" id="8cd08249-df5a-4060-b762-3c49f839f723.0" configVersion="9210cf7202d35349afcf512d81e7068200000000"/>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Form.ФормаСписка" id="df2f1a52-2a3a-4786-9876-539af526e0b3" configVersion="74a2c0dbc2cb544aab07cdcd6500ff0600000000"/>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Form.ФормаСписка.Form" id="df2f1a52-2a3a-4786-9876-539af526e0b3.0" configVersion="74a564537727fe43afdd7f480799422700000000"/>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Form.ФормаЭлемента" id="885fa3e1-59bf-4613-96ad-22aaf04eee8a" configVersion="f10e7a04a38fad47801d1bbb0b9ec8c900000000"/>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Form.ФормаЭлемента.Form" id="885fa3e1-59bf-4613-96ad-22aaf04eee8a.0" configVersion="be9cf92a02358d4f997279c013ac2db200000000"/>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Template.КлассификаторЕдиницИзмерения" id="619260aa-7627-4d91-b4f9-d374f330dee6" configVersion="923f10a822c94048b26789c95cfe097800000000"/>
+		<Metadata name="Catalog.КлассификаторЕдиницИзмерения.Template.КлассификаторЕдиницИзмерения.Template" id="619260aa-7627-4d91-b4f9-d374f330dee6.0" configVersion="a9d5729d16064a44b3d5a476c32f962300000000"/>
+		<Metadata name="Catalog.Контрагенты" id="84d6b54b-3795-449e-a58b-f77ca46c7c61" configVersion="68320c94c45ad04e8dccad18ac19414d00000000"/>
+		<Metadata name="Catalog.Номенклатура" id="233a81eb-044e-4294-a947-cff0892450fc" configVersion="ade52dc2c22ac5419071d71f82472e1a00000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.БазоваяЕдиницаИзмерения" id="5d619703-298c-4407-b76c-71b70af085b6"/>
 		</Metadata>
-		<Metadata name="Catalog.Организации" id="dc89f3f2-c134-4cca-8164-94838750b648" configVersion="dc1d8caab7bf4946b768894f9e3128ac00000000"/>
-		<Metadata name="Catalog.Организации.Predefined" id="dc89f3f2-c134-4cca-8164-94838750b648.1c" configVersion="540e8018d809f44e8ad9c6b4c3ccb11a00000000"/>
-		<Metadata name="Catalog.Склады" id="70c03c7e-9ba5-440a-8509-b3d5ef9c4c26" configVersion="d88f8b922c8693418c4bea979e9df1b900000000"/>
-		<Metadata name="Catalog.ТипыЦенНоменклатуры" id="11c785fa-f661-4b7d-b473-34a2a33aa808" configVersion="ec8443b1307ad04699dbb4ee62ff634e00000000"/>
-		<Metadata name="Catalog.ХарактеристикиНоменклатуры" id="9647bf51-9d74-4f92-a223-683e694bf1dc" configVersion="7dddd9599f96eb498f720cba4cda7d0f00000000"/>
-		<Metadata name="ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения" id="00e09379-9376-46f8-bf60-766664f7344d" configVersion="d6e518c31b330e48bd959e5d3619bd6200000000"/>
-		<Metadata name="CommonAttribute.Организация" id="59021cc3-e0ba-4558-a8d5-a828482d0511" configVersion="aea25dd6d7ee1441b2bc02852e7a16a400000000"/>
-		<Metadata name="Configuration.УправлениеПростымПредприятием" id="ffaa2ac4-fe98-48c1-abee-80c67966b940" configVersion="96fd6cda0b6aae47a39876f363a3edc600000000"/>
-		<Metadata name="DefinedType.Количество" id="8b6e599f-e148-4640-987b-2d06d2552f3a" configVersion="851bc6d4ae760f498e93d73a13dcbc6a00000000"/>
-		<Metadata name="DefinedType.Кратность" id="ce4fab1a-a5b4-4f99-b2c4-fe49a9e11e50" configVersion="47762035068f934cb0e2afb27fe58fc700000000"/>
-		<Metadata name="DefinedType.Курс" id="23d30be7-4967-4369-8996-2e86d0251ea7" configVersion="2134ed4a79f4e749bbc5d0a768ff76fc00000000"/>
-		<Metadata name="DefinedType.Сумма" id="a4c30756-a7d1-4d4e-98f2-c03550d9805a" configVersion="a69e71dca84b6648b5ebc60a47424c0200000000"/>
-		<Metadata name="DefinedType.Цена" id="eabfed0c-8e66-4eb0-98a4-8d10d32b49ae" configVersion="add0d4b2015a9c44a31b80950c0a13c900000000"/>
-		<Metadata name="Document.ПеремещениеТоваров" id="912b7825-9ba9-428c-8468-454f1019ef10" configVersion="035d1bb28bf2b0499971fc9b5df7df0d00000000"/>
-		<Metadata name="Document.ПоступлениеТоваровУслуг" id="ba56bd59-af23-4c68-9196-05abaec6f86a" configVersion="1f65f96d3500094f8121aeb4d0307d9d00000000">
+		<Metadata name="Catalog.Организации" id="dc89f3f2-c134-4cca-8164-94838750b648" configVersion="43a648bce48e8f4da58a1354b62041b700000000"/>
+		<Metadata name="Catalog.Организации.Predefined" id="dc89f3f2-c134-4cca-8164-94838750b648.1c" configVersion="4d2620c9f1977b43b3a72e5e870ff8e300000000"/>
+		<Metadata name="Catalog.Склады" id="70c03c7e-9ba5-440a-8509-b3d5ef9c4c26" configVersion="a581c6ee16387c4a90b8187389771d4600000000"/>
+		<Metadata name="Catalog.ТипыЦенНоменклатуры" id="11c785fa-f661-4b7d-b473-34a2a33aa808" configVersion="6bb1bb408f90f54ebb42bafa09b5a7d500000000"/>
+		<Metadata name="Catalog.ХарактеристикиНоменклатуры" id="9647bf51-9d74-4f92-a223-683e694bf1dc" configVersion="840bf577c189164d976232e3ab60855c00000000"/>
+		<Metadata name="ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения" id="00e09379-9376-46f8-bf60-766664f7344d" configVersion="061ca5a534de6645821089b7250d865700000000"/>
+		<Metadata name="CommonAttribute.Организация" id="59021cc3-e0ba-4558-a8d5-a828482d0511" configVersion="9fb22c1015665d459b3701756346252300000000"/>
+		<Metadata name="Configuration.УправлениеПростымПредприятием" id="ffaa2ac4-fe98-48c1-abee-80c67966b940" configVersion="12ba6f8477ee464f96ced5697d798ce700000000"/>
+		<Metadata name="DefinedType.Количество" id="8b6e599f-e148-4640-987b-2d06d2552f3a" configVersion="48be298c2cac044f9d25657efa946e2300000000"/>
+		<Metadata name="DefinedType.Кратность" id="ce4fab1a-a5b4-4f99-b2c4-fe49a9e11e50" configVersion="86d5c211c1b34941b4ae3a874f5091a400000000"/>
+		<Metadata name="DefinedType.Курс" id="23d30be7-4967-4369-8996-2e86d0251ea7" configVersion="5b6a9078b083bc4d995adb153318f0ca00000000"/>
+		<Metadata name="DefinedType.Сумма" id="a4c30756-a7d1-4d4e-98f2-c03550d9805a" configVersion="4c2dc66e66187444bc448c27989aa9fd00000000"/>
+		<Metadata name="DefinedType.Цена" id="eabfed0c-8e66-4eb0-98a4-8d10d32b49ae" configVersion="4c33cbd7bea18144b13f520803f8b20800000000"/>
+		<Metadata name="Document.ПеремещениеТоваров" id="912b7825-9ba9-428c-8468-454f1019ef10" configVersion="1381c5fe7132d443849dfaf11a48f7e000000000"/>
+		<Metadata name="Document.ПоступлениеТоваровУслуг" id="ba56bd59-af23-4c68-9196-05abaec6f86a" configVersion="ff5bf18708709a49af3e976ffb97425f00000000">
 			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.СписокНоменклатуры.Attribute.Сумма" id="002ef554-65c8-43a7-98ff-d599bac9c886"/>
 			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.СписокНоменклатуры.Attribute.Цена" id="0f142756-7684-4d16-8063-a8369b4914fe"/>
 			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.СписокНоменклатуры.Attribute.ХарактеристикаНоменклатуры" id="5c54439c-ca18-44ae-a848-6c6be68a759d"/>
@@ -61,20 +61,20 @@
 			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.СписокНоменклатуры" id="bf55ba8e-fcd8-46f9-b6b2-dd95fc42c408"/>
 			<Metadata name="Document.ПоступлениеТоваровУслуг.Attribute.Склад" id="fed08609-f69b-401e-a760-13f7a7374490"/>
 		</Metadata>
-		<Metadata name="Document.РеализацияТоваровУслуг" id="e7226edb-96cb-47fb-86ae-5bfb7248cf20" configVersion="92a555537fffd94fa6bbb1776a1c725300000000"/>
-		<Metadata name="InformationRegister.ДополнительныеСведения" id="5dcb0626-2d0a-428f-9e57-5cac9e2f433d" configVersion="96c978e2be36ee4abb615fdd653cafda00000000">
+		<Metadata name="Document.РеализацияТоваровУслуг" id="e7226edb-96cb-47fb-86ae-5bfb7248cf20" configVersion="f1d70cae1da0344795944b0e185d92d200000000"/>
+		<Metadata name="InformationRegister.ДополнительныеСведения" id="5dcb0626-2d0a-428f-9e57-5cac9e2f433d" configVersion="dbd93359dc5b2445b379deb1bf80933000000000">
 			<Metadata name="InformationRegister.ДополнительныеСведения.Resource.Значение" id="0865d0b6-389d-4925-abe2-dd58e2400f9b"/>
 			<Metadata name="InformationRegister.ДополнительныеСведения.Dimension.Свойство" id="54a4436a-027c-4655-afc0-fe4b95f105b4"/>
 			<Metadata name="InformationRegister.ДополнительныеСведения.Dimension.Объект" id="ece0e9a5-4c7e-4cac-8cf6-ac9b430b6d37"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ДополнительныеСведения.Form.ФормаСписка" id="78116583-b1ff-419d-88b9-3f143c731ccd" configVersion="2c80870935ee214487a14fc61030990500000000"/>
-		<Metadata name="InformationRegister.ДополнительныеСведения.Form.ФормаСписка.Form" id="78116583-b1ff-419d-88b9-3f143c731ccd.0" configVersion="b58b0f72c0ac724490c252896142ffa900000000"/>
-		<Metadata name="InformationRegister.КурсыВалют" id="4b5120a3-30d6-4f17-85a1-0b81e364efb7" configVersion="bc1172f319acf54097d49801fbf89e0c00000000">
+		<Metadata name="InformationRegister.ДополнительныеСведения.Form.ФормаСписка" id="78116583-b1ff-419d-88b9-3f143c731ccd" configVersion="46996a8e11a2c449b845a13f9f1766c400000000"/>
+		<Metadata name="InformationRegister.ДополнительныеСведения.Form.ФормаСписка.Form" id="78116583-b1ff-419d-88b9-3f143c731ccd.0" configVersion="4ff5b38c1e3f0b42919e0ccd35b59d8300000000"/>
+		<Metadata name="InformationRegister.КурсыВалют" id="4b5120a3-30d6-4f17-85a1-0b81e364efb7" configVersion="3b2a88787fe90847aba0a2c018c4771e00000000">
 			<Metadata name="InformationRegister.КурсыВалют.Resource.Курс" id="407e7a33-7899-46f5-be9b-862ff48c81a6"/>
 			<Metadata name="InformationRegister.КурсыВалют.Resource.Кратность" id="63fde741-bae6-4039-a2c3-4542c595dacb"/>
 			<Metadata name="InformationRegister.КурсыВалют.Dimension.Валюта" id="8462ba32-1385-4c12-9b20-5fba5f3d610b"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="b77472ff-4e0b-48ff-9588-622b1445aec0" configVersion="e787e2a2f9229c4c87f44a3de839396200000000">
+		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="b77472ff-4e0b-48ff-9588-622b1445aec0" configVersion="6537fc56e22fe440958a80350fae5f3600000000">
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="192933e0-c85c-4e48-ba21-df10f4288aaa"/>
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.ХарактеристикаНоменклатуры" id="41f215de-3b05-4999-8198-836bf827129d"/>
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Валюта" id="9878ab18-ea89-47a5-aeb5-835bc5a347a9"/>
@@ -82,7 +82,7 @@
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.ЕдиницаИзмерения" id="ecd2b02a-a497-4d84-93ee-e027f819b696"/>
 			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Цена" id="f3f0facf-7d8e-4846-add3-eae77dadfd83"/>
 		</Metadata>
-		<Metadata name="Language.Русский" id="b34a40d7-1dc7-433b-9616-e2b474609362" configVersion="80f0cba6d9f9ea4e9096b029419b097400000000"/>
-		<Metadata name="SessionParameter.ОсновнаяОрганизация" id="35819420-857d-4c49-8ed3-7a123c976a8f" configVersion="62ff58083104e64eb4620eda86b253e200000000"/>
+		<Metadata name="Language.Русский" id="b34a40d7-1dc7-433b-9616-e2b474609362" configVersion="ec35212ab9af3640ad4ff7c5eb69d97f00000000"/>
+		<Metadata name="SessionParameter.ОсновнаяОрганизация" id="35819420-857d-4c49-8ed3-7a123c976a8f" configVersion="4036c6bba82679489c299aefa2716a6900000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
