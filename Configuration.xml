@@ -147,6 +147,7 @@
 			<Document>ПеремещениеТоваров</Document>
 			<Document>ПоступлениеТоваровУслуг</Document>
 			<Document>РеализацияТоваровУслуг</Document>
+			<Document>ПриходныйКассовыйОрдер</Document>
 			<InformationRegister>ДополнительныеСведения</InformationRegister>
 			<InformationRegister>КурсыВалют</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>

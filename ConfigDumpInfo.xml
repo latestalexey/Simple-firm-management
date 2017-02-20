@@ -48,7 +48,7 @@
 		<Metadata name="ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения" id="00e09379-9376-46f8-bf60-766664f7344d" configVersion="2aab64d2616f334696a4af2f943b751f00000000"/>
 		<Metadata name="CommonAttribute.Организация" id="59021cc3-e0ba-4558-a8d5-a828482d0511" configVersion="2f1879c94bcb8c42a273a6effda829ec00000000"/>
 		<Metadata name="CommonAttribute.Ответственный" id="66d96e03-9ca5-43af-8435-6ebc03cbf2f7" configVersion="68a22d48bbcaf347b344f588e9bbd6b200000000"/>
-		<Metadata name="Configuration.УправлениеПростымПредприятием" id="ffaa2ac4-fe98-48c1-abee-80c67966b940" configVersion="11a64e90f0ac1c46b296d1d0c675e23900000000"/>
+		<Metadata name="Configuration.УправлениеПростымПредприятием" id="ffaa2ac4-fe98-48c1-abee-80c67966b940" configVersion="41dc34d9239398498724d4a91afda5ca00000000"/>
 		<Metadata name="Configuration.УправлениеПростымПредприятием.SessionModule" id="c40b7c9e-b8d3-4f63-8aa0-05dba8b8ecb3.7" configVersion="a95664a982b5fa4a9b078d4af03bc3cc00000000"/>
 		<Metadata name="DefinedType.Количество" id="8b6e599f-e148-4640-987b-2d06d2552f3a" configVersion="dc2c0d744f36994bac0908087265f60400000000"/>
 		<Metadata name="DefinedType.Кратность" id="ce4fab1a-a5b4-4f99-b2c4-fe49a9e11e50" configVersion="639de1296c16474f904769f11959d80300000000"/>
@@ -67,6 +67,7 @@
 			<Metadata name="Document.ПоступлениеТоваровУслуг.Attribute.Склад" id="fed08609-f69b-401e-a760-13f7a7374490"/>
 		</Metadata>
 		<Metadata name="Document.ПоступлениеТоваровУслуг.ObjectModule" id="ba56bd59-af23-4c68-9196-05abaec6f86a.0" configVersion="a3b0bbbdbdfd40408fabd8cecefa1bfb00000000"/>
+		<Metadata name="Document.ПриходныйКассовыйОрдер" id="bae45120-0160-4659-8626-44d2f4041b86" configVersion="2712a9c615f2ed428d2bfafc4ce1c24400000000"/>
 		<Metadata name="Document.РеализацияТоваровУслуг" id="e7226edb-96cb-47fb-86ae-5bfb7248cf20" configVersion="c31c8fb4f85cee4e9a6f7d6b264499ef00000000"/>
 		<Metadata name="InformationRegister.ДополнительныеСведения" id="5dcb0626-2d0a-428f-9e57-5cac9e2f433d" configVersion="674b0f2e6007714d90c9ebaba6f2073200000000">
 			<Metadata name="InformationRegister.ДополнительныеСведения.Resource.Значение" id="0865d0b6-389d-4925-abe2-dd58e2400f9b"/>
