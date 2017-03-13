@@ -57,7 +57,7 @@
 		<Metadata name="DefinedType.Сумма" id="a4c30756-a7d1-4d4e-98f2-c03550d9805a" configVersion="cea77478e23e4349a00ce39864805f2300000000"/>
 		<Metadata name="DefinedType.Цена" id="eabfed0c-8e66-4eb0-98a4-8d10d32b49ae" configVersion="1efc80cc9ca428419280cf0a56a6bad900000000"/>
 		<Metadata name="Document.ПеремещениеТоваров" id="912b7825-9ba9-428c-8468-454f1019ef10" configVersion="8464124384214045a9dfc9e06485294c00000000"/>
-		<Metadata name="Document.ПоступлениеТоваровУслуг" id="ba56bd59-af23-4c68-9196-05abaec6f86a" configVersion="b86fae9ec86ab048a20452bdc1f9d0da00000000">
+		<Metadata name="Document.ПоступлениеТоваровУслуг" id="ba56bd59-af23-4c68-9196-05abaec6f86a" configVersion="c44b3de4c836e8488a703e68982bc8da00000000">
 			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.СписокНоменклатуры.Attribute.Сумма" id="002ef554-65c8-43a7-98ff-d599bac9c886"/>
 			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.СписокНоменклатуры.Attribute.Цена" id="0f142756-7684-4d16-8063-a8369b4914fe"/>
 			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.СписокНоменклатуры.Attribute.ХарактеристикаНоменклатуры" id="5c54439c-ca18-44ae-a848-6c6be68a759d"/>
@@ -65,6 +65,7 @@
 			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.СписокНоменклатуры.Attribute.Номенклатура" id="a9e1ba1d-9a72-407d-aaf1-9c097cde4a83"/>
 			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.СписокНоменклатуры.Attribute.Количество" id="b1d711a8-aed7-4294-aee9-a0381c6617e6"/>
 			<Metadata name="Document.ПоступлениеТоваровУслуг.TabularSection.СписокНоменклатуры" id="bf55ba8e-fcd8-46f9-b6b2-dd95fc42c408"/>
+			<Metadata name="Document.ПоступлениеТоваровУслуг.Attribute.Валюта" id="c4a52f30-acfb-4524-a5b4-3551fabb015a"/>
 			<Metadata name="Document.ПоступлениеТоваровУслуг.Attribute.Склад" id="fed08609-f69b-401e-a760-13f7a7374490"/>
 		</Metadata>
 		<Metadata name="Document.ПоступлениеТоваровУслуг.ObjectModule" id="ba56bd59-af23-4c68-9196-05abaec6f86a.0" configVersion="16f867264ccdf440b78bcfd76617bf6d00000000"/>
